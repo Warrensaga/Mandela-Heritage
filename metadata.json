@@ -1,0 +1,6 @@
+{
+  "name": "Mandela Heritage Furnitures",
+  "description": "Premium furniture e-commerce catalogue website for Mandela Heritage Furnitures in Nairobi, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
